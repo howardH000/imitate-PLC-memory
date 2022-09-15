@@ -1,0 +1,8 @@
+C:\Users\20120510\Desktop\張智皓\多功能PLC\多功能PLC\bin\Debug\PLC.exe
+C:\Users\20120510\Desktop\張智皓\多功能PLC\多功能PLC\bin\Debug\PLC.pdb
+C:\Users\20120510\Desktop\張智皓\多功能PLC\多功能PLC\obj\x86\Debug\PLC.Properties.Resources.resources
+C:\Users\20120510\Desktop\張智皓\多功能PLC\多功能PLC\obj\x86\Debug\PLC.csproj.GenerateResource.Cache
+C:\Users\20120510\Desktop\張智皓\多功能PLC\多功能PLC\obj\x86\Debug\PLC.exe
+C:\Users\20120510\Desktop\張智皓\多功能PLC\多功能PLC\obj\x86\Debug\PLC.pdb
+C:\Users\20120510\Desktop\張智皓\多功能PLC\多功能PLC\obj\x86\Debug\PLC.Form1.resources
+C:\Users\20120510\Desktop\張智皓\多功能PLC\多功能PLC\obj\x86\Debug\PLC.csprojResolveAssemblyReference.cache
